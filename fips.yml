@@ -1,0 +1,9 @@
+# fips-chipmunk
+---
+
+exports:
+    header-dirs:
+        - Chipmunk/include
+        - Chipmunk/include/chipmunk
+    modules:
+        chipmunk: .
